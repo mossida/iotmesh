@@ -1,7 +1,7 @@
 [package]
 name = "iotmesh"
 version = "0.1.1"
-description = ""
+description = "Crate reserved for future use"
 
 edition = "2021"
 
